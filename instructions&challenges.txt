@@ -1,0 +1,14 @@
+Instructions for how to run the application(Backend):
+    1. Activate the virtual environment
+    2. Run the server: python manage.py runserver
+    3. In Postman specific the local-url and endpoint for register(as admin or user)
+    4. Then after getting the token use that token for other endpoints
+       (ex: Authorization : Bearer 'token')
+
+Challenges I faced:
+    As in Backend Django Rest Framework I have good amount of real time practical knowledge so I successfully done it.
+    But in Frontend I Struggled with React.js due to limited knowledge and practical knowledge so I can't able to do it.
+
+Future Learning Commitment:
+    1. Acknowledges the gap in React.js expertise.
+    2. Committed to learning and excelling in frontend development.
